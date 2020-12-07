@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: #c9d6df;
+  margin: 0;
+  padding: 0;
+  color: #1e2022;
+}
+
+h1 {
+  background: #52616b;
+  margin: 0;
+  padding: 1.5rem;
+  color: #f0f5f9;
+}
+
+input {
+  width: 80%;
+  /* display: block; */
+  margin: 1rem auto;
+  padding: 1rem;
+  background: #c9d6df;
+  border: 1px solid #1e2022;
+}
+
+.country {
+  padding: 1rem;
+}
+
+span {
+  padding: 0.5rem;
+  font-size: 1.5rem;
+}
