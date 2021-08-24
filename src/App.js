@@ -7,7 +7,13 @@ const flags = {
   "🇬🇧": "United Kingdom",
   "🇨🇭": "Switzerland",
   "🇺🇸": "United States",
-  "🇦🇺": "Australia"
+  "🇦🇺": "Australia",
+  "🏁": "Chequered Flag",
+  "🚩": "Triangular Flag",
+  "🎌": "Crossed Flags",
+  "🏴": "Black Flag",
+  "🏳️": "White Flag",
+  "🏴‍☠️": "Pirate Flag"
 };
 
 const flagsList = Object.keys(flags);
